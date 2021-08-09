@@ -1,4 +1,10 @@
-
+#include <iostream>
+#include <Windows.h>
+#include <Windows.h>
+#include <cstdint>
+#include <iostream>
+#include <string>
+#include <vector>
 /* Made by Kooxy 2021 Sometime in August 2021. */
 
 class RobloxLuaTypes
